@@ -1,3 +1,10 @@
+// 1. File upload api in Node Js  
+// 2. Multer package integration
+// 3. Download file from Node Js server
+// 4. Send emails using node Js ( express Js ) 
+// 5. Deploy project on Heroku for free 
+// 6. Schedule cron jobs on the server
+
 require('dotenv').config();
 const express = require('express');
 const app = express();
